@@ -53,7 +53,6 @@ If you have feedback or suggestions, feel free to reach out or open an issue!
 
 ---
 
-Thanks for visiting! 😊
 📬 Contact
 
 - LinkedIn: [https://www.linkedin.com/in/shivam-kumar-mahto-b7a84a311]
