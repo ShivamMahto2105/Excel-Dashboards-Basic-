@@ -25,6 +25,10 @@ A visually rich dashboard highlighting coffee shop metrics such as sales by cate
 ### 3. [Hospital Emergency Dashboard](https://github.com/Shivam-DataAnalytics/Excel-Dashboards-Basic-/tree/main/3_Hospital_Emerengy_dashboard)  
 An interactive Excel dashboard visualizing emergency patient data, gender and race distribution, department-wise visits, wait times, and satisfaction scores. Offers insights into healthcare load and demographics.
 
+### 4. [Ferns Petals Dashboard](https://github.com/ShivamMahto2105/Excel-Dashboards-Basic-/tree/main/4_Ferns_and_Petals_Sales_Dashboard)
+The Sales Analysis Dashboard for FNP (Ferns N Petals) provides a comprehensive overview of sales performance across products, occasions, time periods, and locations. Using interactive visualizations and key performance indicators, the dashboard highlights total orders, revenue trends, customer spending behavior, and delivery efficiency. It helps identify top-performing categories, peak sales hours, high-demand months, and leading cities by order volume. This project demonstrates effective data analysis, visualization, and business insight generation to support data-driven decision-making.
+
+
 
 > This table will be updated as new dashboards are added.
 
