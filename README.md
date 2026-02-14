@@ -28,7 +28,7 @@ An interactive Excel dashboard visualizing emergency patient data, gender and ra
 ### 4. [Ferns Petals Dashboard](https://github.com/ShivamMahto2105/Excel-Dashboards-Basic-/tree/main/4_Ferns_and_Petals_Sales_Dashboard)
 The Sales Analysis Dashboard for FNP (Ferns N Petals) provides a comprehensive overview of sales performance across products, occasions, time periods, and locations. Using interactive visualizations and key performance indicators, the dashboard highlights total orders, revenue trends, customer spending behavior, and delivery efficiency. It helps identify top-performing categories, peak sales hours, high-demand months, and leading cities by order volume. This project demonstrates effective data analysis, visualization, and business insight generation to support data-driven decision-making.
 
-### 5. [Indian Bike Sales Dashboard](https://github.com/ShivamMahto2105/Excel-Dashboards-Basic-/tree/main/5_Indian_Bike_Sales_Dashboard)
+### 5. [Indian Bike Sales Dashboard](https://github.com/ShivamMahto2105/Excel-Dashboards-Basic-/tree/main/5_Bike_Sales_Analysis)
 The Indian Bike Sales Analysis Dashboard provides a comprehensive overview of brand performance, pricing trends, resale value, fuel distribution, and regional sales patterns. It highlights key metrics such as total price, total models, and resale comparison while identifying top-performing brands, city tiers, and states. This project demonstrates strong data analysis, visualization, and business insight generation for data-driven decision-making.
 
 
