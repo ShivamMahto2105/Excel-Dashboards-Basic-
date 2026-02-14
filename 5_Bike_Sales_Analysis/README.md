@@ -44,13 +44,13 @@ This interactive Excel dashboard provides a comprehensive overview of Indian bik
 
 You can download the dataset used in this dashboard from the link below:
 
-👉 [Download Indian Bike Sales Dataset](https://github.com/your-username/your-repository-name/blob/main/Dataset.xlsx)
+👉 [Download Indian Bike Sales Dataset](https://github.com/ShivamMahto2105/Excel-Dashboards-Basic-/blob/main/5_Bike_Sales_Analysis/Data.xlsx)
 
 ---
 
 ## 📷 Dashboard Preview
 
-![Indian Bike Sales Dashboard](https://github.com/your-username/your-repository-name/blob/main/Dashboard.png)
+![Indian Bike Sales Dashboard](https://github.com/ShivamMahto2105/Excel-Dashboards-Basic-/blob/main/5_Bike_Sales_Analysis/Preview.png)
 
 ---
 
